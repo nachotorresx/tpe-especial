@@ -4,4 +4,8 @@ mejora de navegación
 
 cambio 2
 
+<<<<<<< HEAD
 cambio en conjunto
+=======
+cambio grupal
+>>>>>>> 7261d1d6e3bdaae06fb6de6b7d0b48b37f8c80bc
